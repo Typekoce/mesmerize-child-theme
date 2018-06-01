@@ -1,0 +1,235 @@
+/*
+ Theme Name:   Mesmerize Child
+ Theme URI:    http://wordpress49.base/mesmerize-child
+ Description:  Mesmerize Child Theme
+ Author:       Eclipse Software
+ Author URI:   http://wordpress49.base/
+ Template:     mesmerize
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  mesmerize-child
+ */
+
+/** Child theme style**/
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-1 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-2 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-3 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-4 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
